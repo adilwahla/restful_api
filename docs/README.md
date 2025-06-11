@@ -1,3 +1,13 @@
+# RESTful API Project
+
+A scalable, modular RESTful API built with best practices in mind, supporting API versioning, layered architecture, and clean separation of concerns.
+
+---
+
+## 📁 Project Structure
+
+
+
 project-root/
 ├── .env                    # Environment variables
 ├── .gitignore
