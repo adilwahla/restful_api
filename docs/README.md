@@ -7,7 +7,7 @@ A scalable, modular RESTful API built with best practices in mind, supporting AP
 ## 📁 Project Structure
 
 
-
+```text
 project-root/
 ├── .env                    # Environment variables
 ├── .gitignore
